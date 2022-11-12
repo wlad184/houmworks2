@@ -31,7 +31,7 @@ public class Main {
          double g = -159;
          var h = 27897;
          char i = 67;
-         System.out.println(" " + a + b + c + d + e + f + g + h + i);
+         System.out.println("" + a + b + c + d + e + f + g + h + i);
 
          //task 3
         int students1 = 23;
